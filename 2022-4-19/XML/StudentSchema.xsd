@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema
+        xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.itheima.cn/javase"
+        elementFormDefault="qualified"
+>
+    <!--定义Students复杂元素-->
+    <element name="Students">
+        <complexType>
+            <sequence>
+                <!--定义person复杂元素-->
+                <element name = "student">
+                    <complexType>
+                        <sequence>
+                            <!--定义name和age简单元素-->
+                            <element name = "name" type = "string"></element>
+                            <element name = "age" type = "string"></element>
+                        </sequence>
+
+                    </complexType>
+                </element>
+            </sequence>
+        </complexType>
+
+    </element>
+
+</schema>

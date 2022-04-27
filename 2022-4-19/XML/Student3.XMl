@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Students PUBLIC "dtd的名字" "dtd的URL">
+<!--这是一行注释-->
+<Students>
+    <student id="007">
+        <name>张三</name>
+        <age>29</age>
+        <!--<desc>[CDATA[我是内容<3]]</desc>-->
+
+    </student>
+    <student id="110">
+        <name>李四</name>
+        <age>30</age>
+    </student>
+
+
+</Students>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <!--注释内容-->
+<student id="007">
+    <name>张三</name>
+    <age>25</age>
+</student>
+    <student id="110">
+        <name>李四</name>
+        <age>29</age>
+    </student>
+</students>

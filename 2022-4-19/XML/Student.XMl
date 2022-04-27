@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Students  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://www.itheima.cn/javase"
+           xsi:schemaLocation="http://www.itheima.cn/javase StudentSchema.xsd"
+>
+    <student>
+        <name>张三</name>
+        <age>29</age>
+    </student>
+</Students>
