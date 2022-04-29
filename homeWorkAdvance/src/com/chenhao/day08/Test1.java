@@ -13,7 +13,7 @@ public class Test1 {
         for (int i = 10; i > 1; i--) {
             arrayList.add(i);
         }
-        Integer s = 0;
+        Integer s = 5;
         int index = listTest(arrayList, s);
        //打印索引
         System.out.println(index);
