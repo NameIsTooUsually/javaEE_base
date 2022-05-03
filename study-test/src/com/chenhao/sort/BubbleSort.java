@@ -1,4 +1,4 @@
-package sort;
+package com.chenhao.sort;
 
 public class BubbleSort {
     public static void main(String[] args) {

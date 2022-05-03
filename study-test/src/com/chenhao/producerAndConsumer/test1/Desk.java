@@ -1,4 +1,4 @@
-package com.chenhao.producerAndConsumer;
+package com.chenhao.producerAndConsumer.test1;
 
 public class Desk {
     //桌子上是否有食物

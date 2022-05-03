@@ -1,4 +1,4 @@
-package com.chenhao.producerAndConsumer;
+package com.chenhao.producerAndConsumer.test1;
 
 public class Consumer implements Runnable {
 

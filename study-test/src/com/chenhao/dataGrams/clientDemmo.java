@@ -1,4 +1,4 @@
-package dataGrams;
+package com.chenhao.dataGrams;
 
 import java.io.FileInputStream;
 import java.net.DatagramPacket;
@@ -16,7 +16,7 @@ public class clientDemmo {
         //端口
         int port = 15535;
         //数据
-        FileInputStream fis = new FileInputStream("C:\\Develop\\project\\AdvanceCode\\study-Test\\src\\dataGrams\\123.jpg");
+        FileInputStream fis = new FileInputStream("C:\\Develop\\project\\AdvanceCode\\study-Test\\src\\com.chenhao.dataGrams\\123.jpg");
         byte[] bytes = new byte[2048];
         int len;
         while((len=fis.read(bytes))!=-1){

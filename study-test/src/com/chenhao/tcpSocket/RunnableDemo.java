@@ -1,4 +1,4 @@
-package tcpSocket;
+package com.chenhao.tcpSocket;
 
 import java.io.*;
 import java.net.Socket;
